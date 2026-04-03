@@ -3,7 +3,7 @@
 ### 课文点读系统
 在线课文朗读，单句点读，中英对照，随时随地在线自学英语。  
 
-Demo：[http://nce.ichochy.com](http://nce.ichochy.com)  
+Demo：[https://kingyumu.github.io/NCE/](https://kingyumu.github.io/NCE/)
 
 --- 
 ## 截图
